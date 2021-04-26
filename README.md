@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @laczakan
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning PHP, Laravel 8 Bootstrap
-- 💞️ I’m looking to collaborate on new and exiting projects.
+- 👋 Hi, I’m Andrzej - @laczakan
+- 👀 I’m interested in programming and tech.
+- 🌱 I’m currently learning PHP, Laravel 8, Bootstrap
+- 💞️ I’m looking to collaborate on new and exiting projects (remote work).
 - 📫 How to reach me ...Just send me email: laczakan@yahoo.co.uk
 
 <!---
